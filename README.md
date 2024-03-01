@@ -1,2 +1,2 @@
 # Arduino-Workshop
-Resources for the AIR Lab Arduino workshopd
+Resources for the AIR Lab Arduino workshop
